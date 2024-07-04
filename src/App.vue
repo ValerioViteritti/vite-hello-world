@@ -1,12 +1,12 @@
 <script setup>
-import AppTitle from './components/AppTitle.vue'
+import AppTitle from './components/AppTitle.vue';
+import AppHero from './components/AppHero.vue'
 </script>
 
 <template>
-  <div>
-   
-  </div>
+  
   <AppTitle />
+  <AppHero />
 </template>
 
 <style scoped>
